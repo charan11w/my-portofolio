@@ -208,7 +208,6 @@ img {
 .home__title {
   font-size: var(--big-font-size);
   margin-bottom: var(--mb-5);
-  text-align: center;
 }
 
 .home__title-color {
@@ -313,23 +312,27 @@ img {
 }
 
 .skills__html {
-  width: 95%;
-}
-
-.skills__css {
   width: 85%;
 }
 
+.skills__css {
+  width: 80%;
+}
+
 .skills__js {
-  width: 65%;
+  width: 70%;
 }
 
 .skills__react {
-  width: 55%;
+  width: 75%;
 }
 
 .skills__img {
   border-radius: 0.5rem;
+}
+
+.skills_redux{
+  width: 70%;
 }
 
 /* ===== portfolio =====*/
